@@ -1,4 +1,4 @@
-# m4a to mp3 audio decoder
+# m4a to mp3 audio batch transcoder
 
 how to use:
 
